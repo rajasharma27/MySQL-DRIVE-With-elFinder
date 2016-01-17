@@ -1,6 +1,8 @@
 # MySQL-DRIVE-With-elFinder
 MySQL DRIVE With Set Attributes (read, write, locked, hidden) On Files or Folders
 
+First you create "elfinder_file" table inside MySQL elfinderdatabase
+
 Set Attributes (read, write, locked, hidden) On Files or Folders with elFinderVolumeMySQL.class.php
 
 You can set attribute for files and folder in side MySQL Database drive
